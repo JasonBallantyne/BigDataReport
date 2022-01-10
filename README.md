@@ -1,10 +1,10 @@
 A technical report based on the following topics:
 
-# Part 1
+## Part 1
 Comparison between relational and NoSQL database management models and my impressions as to why one is better and in which context.
 
 
-# Part 2
+## Part 2
 Exploring the the following topic: ”Spark & Hadoop: Advantages and drawbacks of each technology, and why you might choose one over the other”
 My discussion addresses the following topics:
 * A brief overview of the two technologies
@@ -12,7 +12,7 @@ My discussion addresses the following topics:
 * In what circumstances I would choose Spark over Hadoop
 * In what circumstances I would choose Hadoop over Spark
 
-# Part 3
+## Part 3
 A review of the following article: “Yesquel: scalable SQL storage for Web applications” by Marcos K. Aguilera, Joshua B. Leners and Michael Walfish.
 My review addresses the following points:
 * Identifying the question/challenge the paper addresses. Explain their motivation for the research.
